@@ -1,5 +1,5 @@
 {
-  "name": "ts-validator",
+  "name": "struct-validator",
   "version": "0.1.0",
   "description": "TypeScript data validator with strict typing",
   "keywords": [
