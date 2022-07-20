@@ -5,6 +5,8 @@ import { struct } from './struct'
 export * from './base'
 export * from './common'
 export * from './struct'
+export * from './transform'
+export * from './collidables'
 
 const schema = struct({
   username: string,
