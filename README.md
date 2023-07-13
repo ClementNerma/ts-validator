@@ -1,5 +1,7 @@
 # `ts-validator`
 
+**NOTE:** I encourage you to use [https://github.com/colinhacks/zod](Zod) instead.
+
 Usage example:
 
 ```typescript
